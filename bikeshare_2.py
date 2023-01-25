@@ -1,3 +1,6 @@
+# based on udacity bikeshare project
+# Author: Hendrik Kaiser
+
 import time
 import pandas as pd
 import numpy as np
